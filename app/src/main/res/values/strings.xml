@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="error_login">Username or password invalid</string>
+    <string name="movies_title">Movies</string>
+
+</resources>

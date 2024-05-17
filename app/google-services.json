@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6779931565",
+    "project_id": "movie-app-9ced7",
+    "storage_bucket": "movie-app-9ced7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6779931565:android:00055b2014ae0a190aef24",
+        "android_client_info": {
+          "package_name": "com.fernando.ku.movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwS3VwA09DL58hN35Qz3dqfWSdimCiVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
